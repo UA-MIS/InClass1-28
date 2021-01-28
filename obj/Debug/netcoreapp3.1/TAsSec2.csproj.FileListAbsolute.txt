@@ -1,0 +1,13 @@
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.exe
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.deps.json
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.runtimeconfig.json
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.runtimeconfig.dev.json
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.dll
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\bin\Debug\netcoreapp3.1\TAsSec2.pdb
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.csprojAssemblyReference.cache
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.AssemblyInfoInputs.cache
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.AssemblyInfo.cs
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.csproj.CoreCompileInputs.cache
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.dll
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.pdb
+C:\Users\jlucas13\Documents\source\repos\MIS321\TAsSec2\obj\Debug\netcoreapp3.1\TAsSec2.genruntimeconfig.cache
